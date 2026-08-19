@@ -5,7 +5,7 @@ def connect_db():
         host = "localhost",
         port = "3306",
         user = "root",
-        password = "#Pass123",
+        password = "<your SQL password>",
         database = "story_generator")
 
 
