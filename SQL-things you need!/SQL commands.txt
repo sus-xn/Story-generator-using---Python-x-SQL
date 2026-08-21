@@ -1,0 +1,17 @@
+# Database creation
+>> create database story_generator;
+
+
+# use created database
+>> use story_generator;
+
+
+# table creation
+  1 - stroy templates table
+  >> create table story_templates(id int AUTO_INCREMENT PRIMARY KEY, template_text text NOT NULL);
+
+  2 - user input table
+  >> create table user_inputs(id int AUTO_INCREMENT PRIMARY KEY, name varchar(100), place varchar(100), item varchar(100));
+
+  3 - generated story table
+  >> create table generated_stories(id int AUTO_INCREMENT PRIMARY KEY, story text NOT NULL, created_at timestamp DEFAULT CURRENT_TIMESTAMP);
