@@ -29,5 +29,8 @@ Before you begin, ensure you have met the following requirements to run this pro
 - MySQL connector [ use this command to install : pip install mysql-connector-python ]
 
 
-
 ## SQL database setup
+
+Create a fresh new databsae named "story_generator" and then inside the database create 3 tables to store, update and delete. First table is "story_templates" to store the templates with an unique id for generate stories. Second tables is "user_inputs" to store the values of "name","place","item" while user endering for generating new story. And the third table is "generated_stories" to store generated stories with its timestamp.The SQL commands and values are in "[SQL-things you need](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/tree/main/SQL-things%20you%20need!)" folder.
+
+## Python setup
