@@ -34,3 +34,9 @@ Before you begin, ensure you have met the following requirements to run this pro
 Create a fresh new databsae named "story_generator" and then inside the database create 3 tables to store, update and delete. First table is "story_templates" to store the templates with an unique id for generate stories. Second tables is "user_inputs" to store the values of "name","place","item" while user endering for generating new story. And the third table is "generated_stories" to store generated stories with its timestamp.The SQL commands and values are in "[SQL-things you need](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/tree/main/SQL-things%20you%20need!)" folder.
 
 ## Python setup
+
+Install python and setup as usually and remember to install SQL-Python connector on your system. and then test the connector using this code in a new file. ![image](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/blob/main/SQL-things%20you%20need!/images/Screenshot%202026-09-14%20124850.png?raw=true) \
+If the connection is estabilshed successfully the output shows like this : ![image](<img width="858" height="286" alt="image" src="https://github.com/user-attachments/assets/30ef75b8-95b8-410c-8975-0cad7c1e5ee9" />
+) \
+
+## HI
