@@ -37,7 +37,9 @@ Create a fresh new databsae named "story_generator" and then inside the database
 
 ## Python setup
 
-Install python and setup as usually and remember to install SQL-Python connector on your system. and then test the connector using this code in a new file. ![image](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/blob/main/SQL-things%20you%20need!/images/Screenshot%202026-09-14%20124850.png?raw=true) \
-If the connection is estabilshed successfully the output shows like this : ![image](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/blob/main/SQL-things%20you%20need!/images/connection%20established.png?raw=true) \
+Install python and setup as usually and remember to install SQL-Python connector on your system. and then test the connector using this code in a new file.\
+![image](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/blob/main/SQL-things%20you%20need!/images/Screenshot%202026-09-14%20124850.png?raw=true) \
+If the connection is estabilshed successfully the output shows like this : \
+![image](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/blob/main/SQL-things%20you%20need!/images/connection%20established.png?raw=true) \
 
 ## HI
