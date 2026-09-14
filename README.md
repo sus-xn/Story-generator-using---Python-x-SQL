@@ -2,6 +2,8 @@
 
 It is a basic project using Python and an SQL database. While everyone is doing the same repetitive projects, such as hospital management, hotel management, or the usual “blah, blah, blah,” I took this a little further by generating stories using per-written templates and user input.
 
+![image](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/blob/main/SQL-things%20you%20need!/images/Screenshot%202026-09-14%20130543.png?raw=true)
+
 Disclaimer: This project has its own drawbacks and limitations. Do not expect the output to be like an AI-generated story. The application generates stories from predefined templates and replaces their placeholders with user-provided information. The quality and variety of the generated stories therefore depend on the templates available in the database.
 
 ## Project Overview
@@ -36,7 +38,6 @@ Create a fresh new databsae named "story_generator" and then inside the database
 ## Python setup
 
 Install python and setup as usually and remember to install SQL-Python connector on your system. and then test the connector using this code in a new file. ![image](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/blob/main/SQL-things%20you%20need!/images/Screenshot%202026-09-14%20124850.png?raw=true) \
-If the connection is estabilshed successfully the output shows like this : ![image](<img width="858" height="286" alt="image" src="https://github.com/user-attachments/assets/30ef75b8-95b8-410c-8975-0cad7c1e5ee9" />
-) \
+If the connection is estabilshed successfully the output shows like this : ![image](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/blob/main/SQL-things%20you%20need!/images/connection%20established.png?raw=true) \
 
 ## HI
