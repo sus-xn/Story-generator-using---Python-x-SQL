@@ -26,20 +26,20 @@ The project also includes CRUD operations for managing story templates, user inp
 
 Before you begin, ensure you have met the following requirements to run this project:
 
-- Python 3.6
+- Python 3.6 or higher versions
 - MySQL [database]
 - MySQL connector [ use this command to install : pip install mysql-connector-python ]
 
 
-## SQL database setup
+## SQL Database Setup
 
-Create a fresh new databsae named "story_generator" and then inside the database create 3 tables to store, update and delete. First table is "story_templates" to store the templates with an unique id for generate stories. Second tables is "user_inputs" to store the values of "name","place","item" while user endering for generating new story. And the third table is "generated_stories" to store generated stories with its timestamp.The SQL commands and values are in "[SQL-things you need](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/tree/main/SQL-things%20you%20need!)" folder.
+Create a fresh new database named "story_generator" and then inside the database create 3 tables to store, update and delete. First table is "story_templates" to store the templates with an unique id for generate stories. Second tables is "user_inputs" to store the values of "name","place","item" while user entering for generating new story. And the third table is "generated_stories" to store generated stories with its timestamp.The SQL commands and values are in "[SQL-things you need](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/tree/main/SQL-things%20you%20need!)" folder.
 
-## Python setup
+## Python Setup
 
 Install python and setup as usually and remember to install SQL-Python connector on your system. and then test the connector using this code in a new file.\
 ![image](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/blob/main/SQL-things%20you%20need!/images/Screenshot%202026-09-14%20124850.png?raw=true) \
-If the connection is estabilshed successfully the output shows like this : \
+If the connection is established successfully the output shows like this : \
 ![image](https://github.com/sus-xn/Story-generator-using---Python-x-SQL/blob/main/SQL-things%20you%20need!/images/connection%20established.png?raw=true) \
 
 ## HI
